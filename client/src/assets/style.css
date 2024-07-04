@@ -1,0 +1,59 @@
+@import url('https://fonts.cdnfonts.com/css/helvetica-neue-55');
+
+body,*{
+  
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Helvetica,Arial,sans-serif;
+}
+body{
+    width: 100%;
+    overflow-x: hidden;
+}
+
+
+.hamburger_span{
+    width: 20px;
+    background-color: black;
+    height: 2px;
+    
+
+}
+
+.slick-prev:before{
+    font-size: 30px;
+    background-color: gray;
+    border-radius: 100%;
+    
+}
+.slick-next:before{
+    font-size: 30px;
+    background-color: gray;  
+    border-radius: 100%;
+}
+
+
+.your-slider-container {
+    margin: 0 10px !important; /* Example spacing */
+    padding: 0 !important; /* Reset default padding, if any */
+  }
+  
+ 
+
+
+
+
+
+
+
+
+ 
+
+ /* mobile screen */
+@media (max-width: 768px) {
+    .rewardsBg {
+      background: url('/src/assets/images/reward_fullStar_mobile_2021.jpg') center/cover !important;
+    }
+  }
+

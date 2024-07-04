@@ -1,0 +1,39 @@
+
+{
+    
+ 
+        "header":{
+            "Menu": "Menyu",
+            "Rewards": "Mükafatlar",
+            "Gift": "Hədiyyə Kartı",
+            "Find": "Magazanı tapın",
+            "SignIn": "Daxil olun",
+            "Joinnow": "Qeydiyyat"
+        },
+        "home":{
+            "lavender":"Lavanda möhtəşəmliyi ilə  qarşılayın",
+            "lavenderdetail":"İncə çiçək notları ilə südlü soyuq köpükdən ibarət yeni Buzlu Lavanda Kremi Yulaf Südü Matçasını sınayın.",
+            "order":"Order Now",
+            "earn":"Nağd pulu geri və bonus ulduzları qazanın",
+             "earndetail":"Uyğun Bank of America debet və ya kredit kartını Starbucks Rewards hesabınıza qoşmaqla uyğun proqramdaxili alışlarda 2% Cash Back və Bonus Ulduzlarından həzz alın.*",
+             "get":"Başla",
+             "positively":"Müsbət dadlı",
+             "positivelydetail":"Möhtəşəm olaraq 150 və ya daha az kalorili qeyri-süd yeməkləri ilə seçim edin. Yeni Fındıq Yulaf Südü Çalxılmış Espresso və ya Klassik Qəhvəyi Şəkər Yulaf Südü Çalxılmış Espressonu seçin.",
+             "multiply":"Sevincləri çoxalt",
+             "multiplydetail":"İndi siz asanlıqla bir alışda 10-a qədər Starbucks eHədiyyəsi göndərə bilərsiniz. Sevimli insanları müalicə etmək üçün mükəmməldir. Veb saytımızda mövcuddur.",
+             "send":"Elektron Hədiyyələr Göndər",
+             "protein":"Proteinlə dolu xeyirxahlıq",
+             "proteindetail":"Bekon, kolbasa və yumurta paketi və ya yeni toyuq, ağcaqayın yağı və yumurta sendviçi ilə gününüzü doldurun.",
+             "our":"Son kolleksiyamız",
+             "ourdetail":"Şae Entoni rəngli qadınları qeyd etmək üçün öz hekayəsindən ilhamlanaraq doymuş çalarları və canlı illüstrasiyalarla bütün qadınların gözəlliyini və səlahiyyətlərini təqdir edir.",
+             "meet":"Görüş paylaşımı",
+             "let":"Gəlin qeyd edək",
+             "letdetail":"Geri dönən sevimli Starbucks® Yubiley Qarışığı zəngin, ləzzətli qəhvələrin köklərini hörmətlə qarşılayır.",
+             "asmle":"Bir təbəssüm böyük fərq yaradır.",
+             "asmledetail":"- Brenda, Starbucks Partnyoru (İşçi) Tərəfdaşlarımız hər gün bir-birlərini və icmalarını yüksəldirlər.",
+             "learnmore":"Ətraflı məlumat",
+             "text":"*Yalnız iştirakçı mağazalarda. Bəzi məhdudiyyətlər tətbiq olunur. Əlaqəli Kart üzvləri hər Uyğun Alış-verişin tam alış qiymətindən 2% Cash Back qazanacaqlar. Bonus Star təklifinə vergilər və məsləhətlər daxil deyil. alkoqol və ya qeydiyyatdan keçməmiş Starbucks Kartlarının yenidən yüklənməsi zamanı. Tam təfərrüatlar üçün www.starbucks.com/bofa Bank of America, N.A. üzvü FDIC-ə daxil olun."
+
+        }
+    
+}

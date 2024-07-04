@@ -1,0 +1,40 @@
+
+
+{
+        "header":{
+            "Menu": "Menu", 
+            "Rewards": "Rewards",
+            "Gift": "Gift Cards",
+            "Find": "Find a store",
+            "SignIn": "Sign In",
+            "Joinnow": "Join now"
+        } ,
+        "home":{
+            "lavender":"Lavender meets matcha",
+            "lavenderdetail":"Try the new Iced Lavender Cream Oatmilk Matcha, featuring dairy cold foam with subtle floral notes.",
+            "order":"Order Now",
+            "earn":"Earn Cash Back and Bonus Stars",
+            "earndetail":"Enjoy 2% Cash Back and Bonus Stars on qualifying in-app purchases by linking an eligible Bank of America debit or credit card to your Starbucks Rewards account.*",
+            "get":"Get started",
+            "positively":"Positively delicious",
+            "positivelydetail":"Go for a nondairy pick-me-up with 150 calories or less in a grande. Choose the new Hazelnut Oatmilk Shaken Espresso or classic Brown Sugar Oatmilk Shaken Espresso.",
+            "multiply":"Multiply the joy",
+            "multiplydetail":"Now you can easily send up to 10 Starbucks eGifts in a single purchase. Perfect for treating your favorite people. Available on our website.",
+            "send":"Send eGifts",
+            "protein":"Protein-packed goodness",
+            "proteindetail":"Fuel your day with a Bacon, Sausage & Egg Wrap or the new Chicken, Maple Butter & Egg Sandwich.",
+            "our":"Our latest collection",
+            "ourdetail":"Shae Anthony honors the beauty and empowerment of all women with saturated hues and vibrant illustrations, inspired by her own story to celebrate women of color.",
+            "meet":"Meet share",
+            "let":"Let’s celebrate",
+            "letdetail":"A returning favorite, Starbucks® Anniversary Blend honors our roots of rich, tantalizing coffees.",
+            "asimle":"“A smile makes a big difference.”",
+            "asimledetail":"- Brenda, Starbucks Partner (Employee) Our partners uplift each other and their communities every day.",
+            "learnmore":"Learn more",
+            "text":"*At participating stores only. Some restrictions apply. Linked Card members will earn 2% Cash Back on the full purchase price of every Qualifying Purchase. Bonus Star offer excludes taxes and tips. Stars may not be earned on purchases of alcohol or on reloads of Starbucks Cards that are not registered. For full details, visit www.starbucks.com/bofa Bank of America, N.A. Member FDIC."
+
+
+        }
+
+}
+

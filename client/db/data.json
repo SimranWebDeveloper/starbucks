@@ -1,0 +1,3340 @@
+{
+  "coffee": [
+    {
+      "id": "1",
+      "name": "Oleato Golden Foam Cold Brew",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/Oleato_GoldenFoam_ColdBrew.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Oleato",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "330"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "380"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "400"
+        },
+        {
+          "size": "Trenta",
+          "capacity": "30 fl oz",
+          "calories": "450"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Oleato Caffé Latte with Oatmilk",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/Oleato_CaffeLatte.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Oleato",
+      "sizes": [
+        {
+          "size": "Short",
+          "capacity": "8 fl oz",
+          "calories": "210"
+        },
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "270"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "330"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "410"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Oleato Iced Shaken Espresso with Oatmilk and Toffeenut",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/Oleato_ToffeeNut_ShakenEspresso.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Oleato",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "220"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "250"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "310"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Caffe Americano",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190617_CaffeAmericano.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Hot Coffees",
+      "type": "Americanos",
+      "sizes": [
+        {
+          "size": "Short",
+          "capacity": "8 fl oz",
+          "calories": "5"
+        },
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "10"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "15"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "15"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Veranda Blend",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190617_CaffeAmericano.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Hot Coffees",
+      "type": "Brewed Coffees",
+      "sizes": [
+        {
+          "size": "Short",
+          "capacity": "8 fl oz",
+          "calories": "5"
+        },
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "5"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "5"
+        },
+        {
+          "size": "Venti",
+          "capacity": "20 fl oz",
+          "calories": "5"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Featured Medium Roast - Pike Place Roast",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190617_CaffeAmericano.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Hot Coffees",
+      "type": "Brewed Coffees",
+      "sizes": [
+        {
+          "size": "Short",
+          "capacity": "8 fl oz",
+          "calories": "5"
+        },
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "5"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "5"
+        },
+        {
+          "size": "Venti",
+          "capacity": "20 fl oz",
+          "calories": "5"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Featured Starbucks Dark Roast Coffee",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190617_CaffeAmericano.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Hot Coffees",
+      "type": "Brewed Coffees",
+      "sizes": [
+        {
+          "size": "Short",
+          "capacity": "8 fl oz",
+          "calories": "5"
+        },
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "5"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "5"
+        },
+        {
+          "size": "Venti",
+          "capacity": "20 fl oz",
+          "calories": "5"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Decaf Pike Place Roast",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190617_CaffeAmericano.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Hot Coffees",
+      "type": "Brewed Coffees",
+      "sizes": [
+        {
+          "size": "Short",
+          "capacity": "8 fl oz",
+          "calories": "5"
+        },
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "5"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "5"
+        },
+        {
+          "size": "Venti",
+          "capacity": "20 fl oz",
+          "calories": "5"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Ethiopia Yirgacheffe Chelelektu Clover Starbucks Reserve",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190617_CaffeAmericano.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Hot Coffees",
+      "type": "Brewed Coffees",
+      "sizes": [
+        {
+          "size": "Short",
+          "capacity": "8 fl oz",
+          "calories": "10"
+        },
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "10"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "10"
+        },
+        {
+          "size": "Venti",
+          "capacity": "20 fl oz",
+          "calories": "10"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Guatemala Lake Atitlan Clover Starbucks Reserve",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190617_CaffeAmericano.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Hot Coffees",
+      "type": "Brewed Coffees",
+      "sizes": [
+        {
+          "size": "Short",
+          "capacity": "8 fl oz",
+          "calories": "10"
+        },
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "10"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "10"
+        },
+        {
+          "size": "Venti",
+          "capacity": "20 fl oz",
+          "calories": "10"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Galapagos La Tortuga Clover Starbucks Reserve",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190617_CaffeAmericano.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Hot Coffees",
+      "type": "Brewed Coffees",
+      "sizes": [
+        {
+          "size": "Short",
+          "capacity": "8 fl oz",
+          "calories": "10"
+        },
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "10"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "10"
+        },
+        {
+          "size": "Venti",
+          "capacity": "20 fl oz",
+          "calories": "10"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Clover Starbucks Reserve Costa Rica Naranjo",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190617_CaffeAmericano.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Hot Coffees",
+      "type": "Brewed Coffees",
+      "sizes": [
+        {
+          "size": "Short",
+          "capacity": "8 fl oz",
+          "calories": "10"
+        },
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "10"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "10"
+        },
+        {
+          "size": "Venti",
+          "capacity": "20 fl oz",
+          "calories": "10"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Caffe Misto",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190617_CaffeMisto.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Hot Coffees",
+      "type": "Brewed Coffees",
+      "sizes": [
+        {
+          "size": "Short",
+          "capacity": "8 fl oz",
+          "calories": "50"
+        },
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "80"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "110"
+        },
+        {
+          "size": "Venti",
+          "capacity": "20 fl oz",
+          "calories": "130"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "name": "Cappuccino",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190617_Cappuccino.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Hot Coffees",
+      "type": "Cappuccinos",
+      "sizes": [
+        {
+          "size": "Short",
+          "capacity": "8 fl oz",
+          "calories": "70"
+        },
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "100"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "140"
+        },
+        {
+          "size": "Venti",
+          "capacity": "20 fl oz",
+          "calories": "200"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "name": "Espresso",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190617_Espresso_Single.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Hot Coffees",
+      "type": "Espresso Shots",
+      "sizes": [
+        {
+          "size": "Solo",
+          "capacity": "0.75 fl oz",
+          "calories": "5"
+        },
+        {
+          "size": "Doppio",
+          "capacity": "1.5 fl oz",
+          "calories": "10"
+        },
+        {
+          "size": "Triple",
+          "capacity": "2.25 fl oz",
+          "calories": "15"
+        },
+        {
+          "size": "Quad",
+          "capacity": "3 fl oz",
+          "calories": "20"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "name": "Espresso Con Panna",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190617_EspressoConPanna.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Hot Coffees",
+      "type": "Espresso Shots",
+      "sizes": [
+        {
+          "size": "Solo",
+          "capacity": "0.75 fl oz",
+          "calories": "30"
+        },
+        {
+          "size": "Doppio",
+          "capacity": "1.5 fl oz",
+          "calories": "35"
+        },
+        {
+          "size": "Triple",
+          "capacity": "2.25 fl oz",
+          "calories": "40"
+        },
+        {
+          "size": "Quad",
+          "capacity": "3 fl oz",
+          "calories": "45"
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "name": "Flat White",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20230406_FlatWhite.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Hot Coffees",
+      "type": "Flat Whites",
+      "sizes": [
+        {
+          "size": "Short",
+          "capacity": "8 fl oz",
+          "calories": "110"
+        },
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "170"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "220"
+        },
+        {
+          "size": "Venti",
+          "capacity": "20 fl oz",
+          "calories": "290"
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "name": "Honey Almondmilk Flat White",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20230406_FlatWhite.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Hot Coffees",
+      "type": "Flat Whites",
+      "sizes": [
+        {
+          "size": "Short",
+          "capacity": "8 fl oz",
+          "calories": "80"
+        },
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "120"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "170"
+        },
+        {
+          "size": "Venti",
+          "capacity": "20 fl oz",
+          "calories": "210"
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "name": "Oleato Caffé Latte with Oatmilk",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/Oleato_CaffeLatte.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Hot Coffees",
+      "type": "Lattes",
+      "sizes": [
+        {
+          "size": "Short",
+          "capacity": "8 fl oz",
+          "calories": "210"
+        },
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "270"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "330"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "410"
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "name": "Pistachio Latte",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/FY22Crop_PistachioLatte-onGreen.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Hot Coffees",
+      "type": "Lattes",
+      "sizes": [
+        {
+          "size": "Short",
+          "capacity": "8 fl oz",
+          "calories": "150"
+        },
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "230"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "320"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "400"
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "name": "Caffe Latte",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190617_CaffeLatte.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Hot Coffees",
+      "type": "Lattes",
+      "sizes": [
+        {
+          "size": "Short",
+          "capacity": "8 fl oz",
+          "calories": "100"
+        },
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "150"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "190"
+        },
+        {
+          "size": "Venti",
+          "capacity": "20 fl oz",
+          "calories": "250"
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "name": "Cinnamon Dolce Latte",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190617_CinnamonDolceLatte.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Hot Coffees",
+      "type": "Lattes",
+      "sizes": [
+        {
+          "size": "Short",
+          "capacity": "8 fl oz",
+          "calories": "190"
+        },
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "270"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "340"
+        },
+        {
+          "size": "Venti",
+          "capacity": "20 fl oz",
+          "calories": "420"
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "name": "Starbucks Reserve Latte",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190617_CaffeLatte.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Hot Coffees",
+      "type": "Lattes",
+      "sizes": [
+        {
+          "size": "Short",
+          "capacity": "8 fl oz",
+          "calories": "110"
+        },
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "180"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "230"
+        },
+        {
+          "size": "Venti",
+          "capacity": "20 fl oz",
+          "calories": "290"
+        }
+      ]
+    },
+    {
+      "id": "24",
+      "name": "Starbucks Reserve Hazelnut Bianco Latte",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20220607_1401_CaramelBruleeLatte-onGreen-MOP_1800.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Hot Coffees",
+      "type": "Lattes",
+      "sizes": [
+        {
+          "size": "Short",
+          "capacity": "8 fl oz",
+          "calories": "190"
+        },
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "310"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "380"
+        },
+        {
+          "size": "Venti",
+          "capacity": "20 fl oz",
+          "calories": "520"
+        }
+      ]
+    },
+    {
+      "id": "25",
+      "name": "Starbucks Blonde Vanilla Latte",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190617_CaffeLatte.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Hot Coffees",
+      "type": "Lattes",
+      "sizes": [
+        {
+          "size": "Short",
+          "capacity": "8 fl oz",
+          "calories": "130"
+        },
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "200"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "250"
+        },
+        {
+          "size": "Venti",
+          "capacity": "20 fl oz",
+          "calories": "320"
+        }
+      ]
+    },
+    {
+      "id": "26",
+      "name": "Caramel Macchiato",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20211029_CaramelMacchiato.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Hot Coffees",
+      "type": "Macchiatos",
+      "sizes": [
+        {
+          "size": "Short",
+          "capacity": "8 fl oz",
+          "calories": "120"
+        },
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "190"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "250"
+        },
+        {
+          "size": "Venti",
+          "capacity": "20 fl oz",
+          "calories": "310"
+        }
+      ]
+    },
+    {
+      "id": "27",
+      "name": "Espresso Macchiato",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190617_EspressoMacchiato.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Hot Coffees",
+      "type": "Macchiatos",
+      "sizes": [
+        {
+          "size": "Solo",
+          "capacity": "0.8 fl oz",
+          "calories": "10"
+        },
+        {
+          "size": "Doppio",
+          "capacity": "1.6 fl oz",
+          "calories": "15"
+        },
+        {
+          "size": "Triple",
+          "capacity": "2.3 fl oz",
+          "calories": "20"
+        },
+        {
+          "size": "Quad",
+          "capacity": "3.1 fl oz",
+          "calories": "25"
+        }
+      ]
+    },
+    {
+      "id": "28",
+      "name": "Caffe Mocha",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20220607_CaffeMocha.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Hot Coffees",
+      "type": "Mochas",
+      "sizes": [
+        {
+          "size": "Short",
+          "capacity": "8 fl oz",
+          "calories": "200"
+        },
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "290"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "370"
+        },
+        {
+          "size": "Venti",
+          "capacity": "20 fl oz",
+          "calories": "450"
+        }
+      ]
+    },
+    {
+      "id": "29",
+      "name": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190716_PeppermintWhiteChocolateMocha.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Hot Coffees",
+      "type": "Mochas",
+      "sizes": [
+        {
+          "size": "Short",
+          "capacity": "8 fl oz",
+          "calories": "150"
+        },
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "240"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "320"
+        },
+        {
+          "size": "Venti",
+          "capacity": "20 fl oz",
+          "calories": "400"
+        }
+      ]
+    },
+    {
+      "id": "30",
+      "name": "White Chocolate Mocha",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190617_WhiteChocolateMocha.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Hot Coffees",
+      "type": "Mochas",
+      "sizes": [
+        {
+          "size": "Short",
+          "capacity": "8 fl oz",
+          "calories": "230"
+        },
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "340"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "430"
+        },
+        {
+          "size": "Venti",
+          "capacity": "20 fl oz",
+          "calories": "530"
+        }
+      ]
+    },
+    {
+      "id": "31",
+      "name": "Chai Tea Latte",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20220411_ChaiLatte.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Hot Teas",
+      "type": "Chai Teas",
+      "sizes": [
+        {
+          "size": "Short",
+          "capacity": "8 fl oz",
+          "calories": "120"
+        },
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "190"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "240"
+        },
+        {
+          "size": "Venti",
+          "capacity": "20 fl oz",
+          "calories": "310"
+        }
+      ]
+    },
+    {
+      "id": "32",
+      "name": "Chai Tea",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/ChaiBrewedTea.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Hot Teas",
+      "type": "Chai Teas",
+      "sizes": [
+        {
+          "size": "Short",
+          "capacity": "8 fl oz",
+          "calories": "0"
+        },
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "0"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "0"
+        },
+        {
+          "size": "Venti",
+          "capacity": "20 fl oz",
+          "calories": "0"
+        }
+      ]
+    },
+    {
+      "id": "33",
+      "name": "Earl Grey Tea",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190624_EarlGreyBlackTea.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Hot Teas",
+      "type": "Black Teas",
+      "sizes": [
+        {
+          "size": "Short",
+          "capacity": "8 fl oz",
+          "calories": "0"
+        },
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "0"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "0"
+        },
+        {
+          "size": "Venti",
+          "capacity": "20 fl oz",
+          "calories": "0"
+        }
+      ]
+    },
+    {
+      "id": "34",
+      "name": "Teavana London Fog Tea Latte",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190624_LondonFogTeaLatte.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Hot Teas",
+      "type": "Black Teas",
+      "sizes": [
+        {
+          "size": "Short",
+          "capacity": "8 fl oz",
+          "calories": "90"
+        },
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "140"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "180"
+        },
+        {
+          "size": "Venti",
+          "capacity": "20 fl oz",
+          "calories": "230"
+        }
+      ]
+    },
+    {
+      "id": "35",
+      "name": "Royal English Breakfast Tea",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/RoyalEnglishBreakfastBlackTea.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Hot Teas",
+      "type": "Black Teas",
+      "sizes": [
+        {
+          "size": "Short",
+          "capacity": "8 fl oz",
+          "calories": "0"
+        },
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "0"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "0"
+        },
+        {
+          "size": "Venti",
+          "capacity": "20 fl oz",
+          "calories": "0"
+        }
+      ]
+    },
+    {
+      "id": "36",
+      "name": "Royal English Breakfast Tea Latte",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190624_RoyalEnglishBreakfastTeaLatte.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Hot Teas",
+      "type": "Black Teas",
+      "sizes": [
+        {
+          "size": "Short",
+          "capacity": "8 fl oz",
+          "calories": "80"
+        },
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "110"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "150"
+        },
+        {
+          "size": "Venti",
+          "capacity": "20 fl oz",
+          "calories": "190"
+        }
+      ]
+    },
+    {
+      "id": "37",
+      "name": "Emperor’s Clouds & Mist",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/EmperorsCloudAndMistGreenTea.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Hot Teas",
+      "type": "Green Teas",
+      "sizes": [
+        {
+          "size": "Short",
+          "capacity": "8 fl oz",
+          "calories": "0"
+        },
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "0"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "0"
+        },
+        {
+          "size": "Venti",
+          "capacity": "20 fl oz",
+          "calories": "0"
+        }
+      ]
+    },
+    {
+      "id": "38",
+      "name": "Matcha Tea Latte",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20211115_MatchaTeaLatte.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Hot Teas",
+      "type": "Green Teas",
+      "sizes": [
+        {
+          "size": "Short",
+          "capacity": "8 fl oz",
+          "calories": "110"
+        },
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "190"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "240"
+        },
+        {
+          "size": "Venti",
+          "capacity": "20 fl oz",
+          "calories": "320"
+        }
+      ]
+    },
+    {
+      "id": "39",
+      "name": "Honey Citrus Mint Tea",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/HoneyCitrusMintTea.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Hot Teas",
+      "type": "Green Teas",
+      "sizes": [
+        {
+          "size": "Short",
+          "capacity": "8 fl oz",
+          "calories": "60"
+        },
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "80"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "130"
+        },
+        {
+          "size": "Venti",
+          "capacity": "20 fl oz",
+          "calories": "150"
+        }
+      ]
+    },
+    {
+      "id": "40",
+      "name": "Jade Citrus Mint Brewed Tea",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/HoneyCitrusMintTea.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Hot Teas",
+      "type": "Green Teas",
+      "sizes": [
+        {
+          "size": "Short",
+          "capacity": "8 fl oz",
+          "calories": "0"
+        },
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "0"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "0"
+        },
+        {
+          "size": "Venti",
+          "capacity": "20 fl oz",
+          "calories": "0"
+        }
+      ]
+    },
+    {
+      "id": "41",
+      "name": "Mint Majesty",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/HoneyCitrusMintTea.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Hot Teas",
+      "type": "Herbal Teas",
+      "sizes": [
+        {
+          "size": "Short",
+          "capacity": "8 fl oz",
+          "calories": "0"
+        },
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "0"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "0"
+        },
+        {
+          "size": "Venti",
+          "capacity": "20 fl oz",
+          "calories": "0"
+        }
+      ]
+    },
+    {
+      "id": "42",
+      "name": "Peach Tranquility",
+      "img": "https://globalassets.starbucks.com/assets/cf7469c84a444e4f9a341f8023558c77.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Hot Teas",
+      "type": "Herbal Teas",
+      "sizes": [
+        {
+          "size": "Short",
+          "capacity": "8 fl oz",
+          "calories": "0"
+        },
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "0"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "0"
+        },
+        {
+          "size": "Venti",
+          "capacity": "20 fl oz",
+          "calories": "0"
+        }
+      ]
+    },
+    {
+      "id": "43",
+      "name": "Hot Chocolate",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190617_SignatureHotChocolate.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Hot Drinks",
+      "type": "Hot Chocolates",
+      "sizes": [
+        {
+          "size": "Kids",
+          "capacity": "8 fl oz",
+          "calories": "190"
+        },
+        {
+          "size": "Short",
+          "capacity": "8 fl oz",
+          "calories": "190"
+        },
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "280"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "370"
+        },
+        {
+          "size": "Venti",
+          "capacity": "20 fl oz",
+          "calories": "450"
+        }
+      ]
+    },
+    {
+      "id": "44",
+      "name": "White Hot Chocolate",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190624_WhiteHotChocolate.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Hot Drinks",
+      "type": "Hot Chocolates",
+      "sizes": [
+        {
+          "size": "Kids",
+          "capacity": "8 fl oz",
+          "calories": "240"
+        },
+        {
+          "size": "Short",
+          "capacity": "8 fl oz",
+          "calories": "240"
+        },
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "350"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "440"
+        },
+        {
+          "size": "Venti",
+          "capacity": "20 fl oz",
+          "calories": "540"
+        }
+      ]
+    },
+    {
+      "id": "45",
+      "name": "Caramel Apple Spice",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190624_CaramelAppleSpice.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Hot Drinks",
+      "type": "Juice",
+      "sizes": [
+        {
+          "size": "Kids",
+          "capacity": "8 fl oz",
+          "calories": "220"
+        },
+        {
+          "size": "Short",
+          "capacity": "8 fl oz",
+          "calories": "220"
+        },
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "310"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "380"
+        },
+        {
+          "size": "Venti",
+          "capacity": "20 fl oz",
+          "calories": "460"
+        }
+      ]
+    },
+    {
+      "id": "46",
+      "name": "Steamed Apple Juice",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SteamedAppleJuice.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Hot Drinks",
+      "type": "Juice",
+      "sizes": [
+        {
+          "size": "Kids",
+          "capacity": "8 fl oz",
+          "calories": "120"
+        },
+        {
+          "size": "Short",
+          "capacity": "8 fl oz",
+          "calories": "120"
+        },
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "170"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "220"
+        },
+        {
+          "size": "Venti",
+          "capacity": "20 fl oz",
+          "calories": "280"
+        }
+      ]
+    },
+    {
+      "id": "47",
+      "name": "Pistachio Creme",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/FY22Crop_PistachioCreme-onGreen.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Hot Drinks",
+      "type": "Steamers",
+      "sizes": [
+        {
+          "size": "Kids",
+          "capacity": "8 fl oz",
+          "calories": "150"
+        },
+        {
+          "size": "Short",
+          "capacity": "8 fl oz",
+          "calories": "150"
+        },
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "230"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "330"
+        },
+        {
+          "size": "Venti",
+          "capacity": "20 fl oz",
+          "calories": "410"
+        }
+      ]
+    },
+    {
+      "id": "48",
+      "name": "Steamed Milk",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190617_SteamedMilk.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Hot Drinks",
+      "type": "Steamers",
+      "sizes": [
+        {
+          "size": "Kids",
+          "capacity": "8 fl oz",
+          "calories": "100"
+        },
+        {
+          "size": "Short",
+          "capacity": "8 fl oz",
+          "calories": "100"
+        },
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "160"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "200"
+        },
+        {
+          "size": "Venti",
+          "capacity": "20 fl oz",
+          "calories": "260"
+        }
+      ]
+    },
+    {
+      "id": "49",
+      "name": "Vanilla Creme",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190624_VanillaCreme.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Hot Drinks",
+      "type": "Steamers",
+      "sizes": [
+        {
+          "size": "Kids",
+          "capacity": "8 fl oz",
+          "calories": "180"
+        },
+        {
+          "size": "Short",
+          "capacity": "8 fl oz",
+          "calories": "180"
+        },
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "280"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "350"
+        },
+        {
+          "size": "Venti",
+          "capacity": "20 fl oz",
+          "calories": "430"
+        }
+      ]
+    },
+    {
+      "id": "50",
+      "name": "Pistachio Frappuccino Blended Beverage",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/FY22WIN_PistachioFrapp-onGreen.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Frappuccino Blended Beverages",
+      "type": "Coffee Frappuccino",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "270"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "380"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "420"
+        }
+      ]
+    },
+    {
+      "id": "51",
+      "name": "Mocha Cookie Crumble Frappuccino",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20211210_MochaCookieCrumbleFrapp.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Frappuccino Blended Beverages",
+      "type": "Coffee Frappuccino",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "350"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "480"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "590"
+        }
+      ]
+    },
+    {
+      "id": "52",
+      "name": "Caramel Ribbon Crunch Frappuccino Blended Beverage",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20211210_CaramelRibbonCrunchFrapp.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Frappuccino Blended Beverages",
+      "type": "Coffee Frappuccino",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "330"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "470"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "570"
+        }
+      ]
+    },
+    {
+      "id": "53",
+      "name": "Espresso Frappuccino Blended Beverage",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190528_EspressoFrapp.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Frappuccino Blended Beverages",
+      "type": "Coffee Frappuccino",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "140"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "210"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "290"
+        }
+      ]
+    },
+    {
+      "id": "54",
+      "name": "Caffe Vanilla Frappuccino Blended Beverage",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190528_CaffeVanillaFrapp.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Frappuccino Blended Beverages",
+      "type": "Coffee Frappuccino",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "280"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "410"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "510"
+        }
+      ]
+    },
+    {
+      "id": "55",
+      "name": "Caramel Frappuccino Blended Beverage",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20220323_CaramelFrapp.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Frappuccino Blended Beverages",
+      "type": "Coffee Frappuccino",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "260"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "380"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "470"
+        }
+      ]
+    },
+    {
+      "id": "56",
+      "name": "Coffee Frappuccino Blended Beverage",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190528_CoffeeFrapp.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Frappuccino Blended Beverages",
+      "type": "Coffee Frappuccino",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "160"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "230"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "310"
+        }
+      ]
+    },
+    {
+      "id": "57",
+      "name": "Mocha Frappuccino Blended Beverage",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190528_MochaFrapp.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Frappuccino Blended Beverages",
+      "type": "Coffee Frappuccino",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "250"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "370"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "470"
+        }
+      ]
+    },
+    {
+      "id": "58",
+      "name": "Java Chip Frappuccino Blended Beverage",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190528_JavaChipFrapp.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Frappuccino Blended Beverages",
+      "type": "Coffee Frappuccino",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "320"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "440"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "560"
+        }
+      ]
+    },
+    {
+      "id": "59",
+      "name": "White Chocolate Mocha Frappuccino Blended Beverage",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190528_WhiteChocolateMochaFrapp.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Frappuccino Blended Beverages",
+      "type": "Coffee Frappuccino",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "280"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "420"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "500"
+        }
+      ]
+    },
+    {
+      "id": "60",
+      "name": "Pistachio Creme Frappuccino Blended Beverage",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20200811_PistachioCremeFrapp.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Frappuccino Blended Beverages",
+      "type": "Creme Frappuccino",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "240"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "360"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "410"
+        }
+      ]
+    },
+    {
+      "id": "61",
+      "name": "Chocolate Cookie Crumble Creme Frappuccino",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190531_ChocolateCookieCrumbleFrappCreme.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Frappuccino Blended Beverages",
+      "type": "Creme Frappuccino",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "330"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "460"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "560"
+        }
+      ]
+    },
+    {
+      "id": "62",
+      "name": "Caramel Ribbon Crunch Creme Frappuccino Blended Beverage",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190528_CaramelRibbonCrunchFrappCreme.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Frappuccino Blended Beverages",
+      "type": "Creme Frappuccino",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "300"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "420"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "510"
+        }
+      ]
+    },
+    {
+      "id": "63",
+      "name": "Strawberry Creme Frappuccino Blended Beverage",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20220323_StrawberryFrapp.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Frappuccino Blended Beverages",
+      "type": "Creme Frappuccino",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "250"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "370"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "460"
+        }
+      ]
+    },
+    {
+      "id": "64",
+      "name": "Chai Creme Frappuccino",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190528_ChaiCremeFrapp.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Frappuccino Blended Beverages",
+      "type": "Creme Frappuccino",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "230"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "340"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "420"
+        }
+      ]
+    },
+    {
+      "id": "65",
+      "name": "Double Chocolaty Chip Creme Frappuccino Blended Beverage",
+      "img": "https://globalassets.starbucks.com/assets/e2ffa95d3c364d94b5dba029263bbf0e.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Frappuccino Blended Beverages",
+      "type": "Creme Frappuccino",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "290"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "410"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "510"
+        }
+      ]
+    },
+    {
+      "id": "66",
+      "name": "Matcha Creme Frappuccino Blended Beverage",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20181127_MatchaGreenTeaFrapp.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Frappuccino Blended Beverages",
+      "type": "Creme Frappuccino",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "300"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "420"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "520"
+        }
+      ]
+    },
+    {
+      "id": "67",
+      "name": "Vanilla Bean Creme Frappuccino Blended Creme",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20181113_VanillaBeanFrapp.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Frappuccino Blended Beverages",
+      "type": "Creme Frappuccino",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "260"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "380"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "470"
+        }
+      ]
+    },
+    {
+      "id": "68",
+      "name": "White Chocolate Creme Frappuccino Blended Beverage",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190528_WhiteChocolateCremeFrapp.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Frappuccino Blended Beverages",
+      "type": "Creme Frappuccino",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "250"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "380"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "450"
+        }
+      ]
+    },
+    {
+      "id": "69",
+      "name": "White Chocolate Creme Frappuccino Blended Beverage",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/ChocolateCoveredStrawberryCremeFrappuccino.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Frappuccino Blended Beverages",
+      "type": "Creme Frappuccino",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "250"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "380"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "450"
+        }
+      ]
+    },
+    {
+      "id": "70",
+      "name": "Oleato Golden Foam Cold Brew",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190528_PeppermintWhiteChocolateCremeFrap.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Cold Coffees",
+      "type": "Cold Brews",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "330"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "380"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "400"
+        },
+        {
+          "size": "Trenta",
+          "capacity": "30 fl oz",
+          "calories": "450"
+        }
+      ]
+    },
+    {
+      "id": "71",
+      "name": "Cinnamon Caramel Cream Cold Brew",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20221014_CinnamonCaramelCreamColdBrew.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Cold Coffees",
+      "type": "Cold Brews",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "200"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "250"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "270"
+        },
+        {
+          "size": "Trenta",
+          "capacity": "30 fl oz",
+          "calories": "340"
+        }
+      ]
+    },
+    {
+      "id": "72",
+      "name": "Pistachio Cream Cold Brew",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20211217_PistachioCreamColdBrew.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Cold Coffees",
+      "type": "Cold Brews",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "210"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "250"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "280"
+        },
+        {
+          "size": "Trenta",
+          "capacity": "30 fl oz",
+          "calories": "310"
+        }
+      ]
+    },
+    {
+      "id": "73",
+      "name": "Chocolate Cream Cold Brew",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20211217_ChocolateCreamColdBrew.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Cold Coffees",
+      "type": "Cold Brews",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "190"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "250"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "300"
+        },
+        {
+          "size": "Trenta",
+          "capacity": "30 fl oz",
+          "calories": "320"
+        }
+      ]
+    },
+    {
+      "id": "74",
+      "name": "Salted Caramel Cream Cold Brew",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20211029_SaltedCaramelCreamColdBrew.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Cold Coffees",
+      "type": "Cold Brews",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "190"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "240"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "270"
+        },
+        {
+          "size": "Trenta",
+          "capacity": "30 fl oz",
+          "calories": "300"
+        }
+      ]
+    },
+    {
+      "id": "75",
+      "name": "Starbucks Cold Brew Coffee",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190416_ColdBrewWithMilk.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Cold Coffees",
+      "type": "Cold Brews",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "5"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "5"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "5"
+        },
+        {
+          "size": "Trenta",
+          "capacity": "30 fl oz",
+          "calories": "5"
+        }
+      ]
+    },
+    {
+      "id": "76",
+      "name": "Vanilla Sweet Cream Cold Brew",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20210611_ColdBrew.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Cold Coffees",
+      "type": "Cold Brews",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "90"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "110"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "200"
+        },
+        {
+          "size": "Trenta",
+          "capacity": "30 fl oz",
+          "calories": "220"
+        }
+      ]
+    },
+    {
+      "id": "77",
+      "name": "Starbucks Cold Brew Coffee with Milk",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190607_VanillaSweetCreamColdBrew.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Cold Coffees",
+      "type": "Cold Brews",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "25"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "35"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "60"
+        },
+        {
+          "size": "Trenta",
+          "capacity": "30 fl oz",
+          "calories": "70"
+        }
+      ]
+    },
+    {
+      "id": "78",
+      "name": "Cinnamon Caramel Cream Nitro Cold Brew",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20221014_CinnamonCaramelCreamNitroColdBrew.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Cold Coffees",
+      "type": "Nitro Cold Brews",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "180"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "260"
+        }
+      ]
+    },
+    {
+      "id": "79",
+      "name": "Nitro Cold Brew",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190410_NitroColdBrew.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Cold Coffees",
+      "type": "Nitro Cold Brews",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "5"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "5"
+        }
+      ]
+    },
+    {
+      "id": "80",
+      "name": "Vanilla Sweet Cream Nitro Cold Brew",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190410_VanillaSweetCreamNitroColdBrew.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Cold Coffees",
+      "type": "Nitro Cold Brews",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "70"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "70"
+        }
+      ]
+    },
+    {
+      "id": "81",
+      "name": "Iced Caffe Americano",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190607_IcedCaffeAmericano.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Cold Coffees",
+      "type": "Iced Americano",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "10"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "15"
+        },
+        {
+          "size": "Venti",
+          "capacity": "26 fl oz",
+          "calories": "15"
+        }
+      ]
+    },
+    {
+      "id": "82",
+      "name": "Iced Coffee",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190607_IcedCoffee.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Cold Coffees",
+      "type": "Iced Coffees",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "60"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "80"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "120"
+        },
+        {
+          "size": "Trenta",
+          "capacity": "30 fl oz",
+          "calories": "160"
+        }
+      ]
+    },
+    {
+      "id": "83",
+      "name": "Iced Coffee with Milk",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190607_IcedCoffeeWithMilk.jpg?impolicy=",
+      "category": "Drinks",
+      "subcategory": "Cold Coffees",
+      "type": "Iced Coffees",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "80"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "110"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "170"
+        },
+        {
+          "size": "Trenta",
+          "capacity": "30 fl oz",
+          "calories": "230"
+        }
+      ]
+    },
+    {
+      "id": "84",
+      "name": "Iced Espresso",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190607_IcedEspresso.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Cold Coffees",
+      "type": "Iced Coffees",
+      "sizes": [
+        {
+          "size": "Solo",
+          "capacity": "0.75 fl oz",
+          "calories": "5"
+        },
+        {
+          "size": "Doppio",
+          "capacity": "1.5 fl oz",
+          "calories": "10"
+        },
+        {
+          "size": "Triple",
+          "capacity": "2.25 fl oz",
+          "calories": "15"
+        },
+        {
+          "size": "Quad",
+          "capacity": "3 fl oz",
+          "calories": "20"
+        }
+      ]
+    },
+    {
+      "id": "87",
+      "name": "Iced Brown Sugar Oatmilk Shaken Espresso",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20201011_IcedBrownSugarOatmilkShakenEspresso.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Cold Coffees",
+      "type": "Iced Shaken Espresso",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "100"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "120"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "190"
+        }
+      ]
+    },
+    {
+      "id": "88",
+      "name": "Iced Chocolate Almondmilk Shaken Espresso",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/IcedHazelnutOatmilkShakenEspresso.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Cold Coffees",
+      "type": "Iced Shaken Espresso",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "80"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "110"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "150"
+        }
+      ]
+    },
+    {
+      "id": "89",
+      "name": "Iced Shaken Espresso",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20201011_IcedShakenEspresso.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Cold Coffees",
+      "type": "Iced Shaken Espresso",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "80"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "100"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "160"
+        }
+      ]
+    },
+    {
+      "id": "90",
+      "name": "Iced Flat White",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190607_IcedFlatWhite.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Cold Coffees",
+      "type": "Iced Flat Whites",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "110"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "150"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "220"
+        }
+      ]
+    },
+    {
+      "id": "91",
+      "name": "Iced Honey Almondmilk Flat White",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190823_IcedAlmondmilkHoneyFlatWhite.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Cold Coffees",
+      "type": "Iced Flat Whites",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "100"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "140"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "200"
+        }
+      ]
+    },
+    {
+      "id": "92",
+      "name": "Iced Pistachio Latte",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20200811_IcedPistachioLatte.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Cold Coffees",
+      "type": "Iced Lattes",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "190"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "260"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "370"
+        }
+      ]
+    },
+    {
+      "id": "93",
+      "name": "Starbucks Reserve Iced Latte",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/IcedGingerbreadLatte.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Cold Coffees",
+      "type": "Iced Lattes",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "150"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "210"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "290"
+        }
+      ]
+    },
+    {
+      "id": "94",
+      "name": "Starbucks Reserve Iced Hazelnut Bianco Latte",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/IcedSugarCookieAlmondmilkLatte.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Cold Coffees",
+      "type": "Iced Lattes",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "210"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "280"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "390"
+        }
+      ]
+    },
+    {
+      "id": "95",
+      "name": "Iced Caffe Latte",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20230612_7720_IcedCaramelBruleeLatte-onGreen-MOP_1800.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Cold Coffees",
+      "type": "Iced Lattes",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "100"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "130"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "180"
+        }
+      ]
+    },
+    {
+      "id": "96",
+      "name": "Iced Cinnamon Dolce Latte",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20230612_7746_IcedChestnutPralineLatte-onGreen-MOP_1800.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Cold Coffees",
+      "type": "Iced Lattes",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "240"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "300"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "420"
+        }
+      ]
+    },
+    {
+      "id": "97",
+      "name": "Iced Starbucks Blonde Vanilla Latte",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190607_IcedCaffeLatte.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Cold Coffees",
+      "type": "Iced Lattes",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "140"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "190"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "270"
+        }
+      ]
+    },
+    {
+      "id": "98",
+      "name": "Iced Caramel Macchiato",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190607_IcedCinnamonDolceLatte.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Cold Coffees",
+      "type": "Iced Macchiatos",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "180  es"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "250"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "350"
+        }
+      ]
+    },
+    {
+      "id": "99",
+      "name": "Iced White Chocolate Mocha",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190607_IcedWhiteChocolateMocha.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Cold Coffees",
+      "type": "Iced Mochas",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "310"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "420"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "560"
+        }
+      ]
+    },
+    {
+      "id": "100",
+      "name": "Iced Caffe Mocha",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20230612_7785_IcedPeppermintMocha-onGreen-MOP_1800.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Cold Coffees",
+      "type": "Iced Mochas",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "260"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "350"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "450"
+        }
+      ]
+    },
+    {
+      "id": "101",
+      "name": "Starbucks Reserve Iced Dark Chocolate Mocha",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190716_IcedPeppermintWhiteChocolateMocha.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Cold Coffees",
+      "type": "Iced Mochas",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "210"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "260"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "380"
+        }
+      ]
+    },
+    {
+      "id": "102",
+      "name": "Iced Black Tea",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190531_IcedBlackTea.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Iced Teas",
+      "type": "Iced Black Teas",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "0"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "0"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "0"
+        },
+        {
+          "size": "Trenta",
+          "capacity": "30 fl oz",
+          "calories": "0"
+        }
+      ]
+    },
+    {
+      "id": "103",
+      "name": "Iced Black Tea Lemonade",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190531_IcedBlackTeaLemonade.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Iced Teas",
+      "type": "Iced Black Teas",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "35"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "50"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "70"
+        },
+        {
+          "size": "Trenta",
+          "capacity": "30 fl oz",
+          "calories": "90"
+        }
+      ]
+    },
+    {
+      "id": "104",
+      "name": "Iced Royal English Breakfast Tea Latte",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190531_IcedRoyalEnglishTeaLatte.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Iced Teas",
+      "type": "Iced Black Teas",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "100"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "140"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "210"
+        }
+      ]
+    },
+    {
+      "id": "105",
+      "name": "Iced London Fog Tea Latte",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190531_IcedLondonFogTeaLatte.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Iced Teas",
+      "type": "Iced Black Teas",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "100"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "140"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "210"
+        }
+      ]
+    },
+    {
+      "id": "106",
+      "name": "Iced Passion Tango Tea",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190531_IcedPassionTangoTeaLemonade.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Iced Teas",
+      "type": "Iced Herbal Teas",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "0"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "0"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "0"
+        },
+        {
+          "size": "Trenta",
+          "capacity": "30 fl oz",
+          "calories": "0"
+        }
+      ]
+    },
+    {
+      "id": "107",
+      "name": "Iced Passion Tango Tea Lemonade",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190531_IcedPassionTangoTea.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Iced Teas",
+      "type": "Iced Herbal Teas",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "35"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "50"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "70"
+        },
+        {
+          "size": "Trenta",
+          "capacity": "30 fl oz",
+          "calories": "90"
+        }
+      ]
+    },
+    {
+      "id": "108",
+      "name": "Dragon Drink Starbucks Refreshers Beverage",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20181217_DragonDrink.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Cold Drinks",
+      "type": "Starbucks Refreshers",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "110"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "130"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "190"
+        },
+        {
+          "size": "Trenta",
+          "capacity": "30 fl oz",
+          "calories": "270"
+        }
+      ]
+    },
+    {
+      "id": "109",
+      "name": "Mango Dragonfruit Starbucks Refreshers Beverage",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20221206_MangoDragonfruitRefreshers.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Cold Drinks",
+      "type": "Starbucks Refreshers",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "110"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "130"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "190"
+        },
+        {
+          "size": "Trenta",
+          "capacity": "30 fl oz",
+          "calories": "180"
+        }
+      ]
+    },
+    {
+      "id": "110",
+      "name": "Mango Dragonfruit Lemonade Starbucks Refreshers Beverage",
+      "img": "https://globalassets.starbucks.com/assets/5474a99cd4854a909613ae6e094dbfc9.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Cold Drinks",
+      "type": "Starbucks Refreshers",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "110"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "140"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "200"
+        },
+        {
+          "size": "Trenta",
+          "capacity": "30 fl oz",
+          "calories": "280"
+        }
+      ]
+    },
+    {
+      "id": "111",
+      "name": "Paradise Drink Starbucks Refreshers Beverage",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20211217_ParadiseDrink.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Cold Drinks",
+      "type": "Starbucks Refreshers",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "110"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "140"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "200"
+        },
+        {
+          "size": "Trenta",
+          "capacity": "30 fl oz",
+          "calories": "270"
+        }
+      ]
+    },
+    {
+      "id": "112",
+      "name": "Strawberry Açaí Lemonade Starbucks Refreshers Beverage",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20221216_FrozenPineapplePassionfruitRefresherLemonade.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Cold Drinks",
+      "type": "Starbucks Refreshers",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "110"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "140"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "210"
+        },
+        {
+          "size": "Trenta",
+          "capacity": "30 fl oz",
+          "calories": "290"
+        }
+      ]
+    },
+    {
+      "id": "113",
+      "name": "Pineapple Passionfruit Starbucks Refreshers Beverage",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20221216_FrozenPineapplePassionfruitRefresherLemonade.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Cold Drinks",
+      "type": "Starbucks Refreshers",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "80"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "100"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "140"
+        },
+        {
+          "size": "Trenta",
+          "capacity": "30 fl oz",
+          "calories": "190"
+        }
+      ]
+    },
+    {
+      "id": "114",
+      "name": "Pink Drink Starbucks Refreshers Beverage",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20221216_FrozenMangoDragonfruitRefresherLemonade.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Cold Drinks",
+      "type": "Starbucks Refreshers",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "110"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "140"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "200"
+        },
+        {
+          "size": "Trenta",
+          "capacity": "30 fl oz",
+          "calories": "270"
+        }
+      ]
+    },
+    {
+      "id": "115",
+      "name": "Strawberry Açaí Starbucks Refreshers Beverage",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20181217_StrawberryAcaiRefresher.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Cold Drinks",
+      "type": "Starbucks Refreshers",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "80"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "100"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "140"
+        },
+        {
+          "size": "Trenta",
+          "capacity": "30 fl oz",
+          "calories": "190"
+        }
+      ]
+    },
+    {
+      "id": "116",
+      "name": "Lemonade",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190624_Lemonade.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Cold Drinks",
+      "type": "Juice",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "80"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "120"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "160"
+        },
+        {
+          "size": "Trenta",
+          "capacity": "30 fl oz",
+          "calories": "200"
+        }
+      ]
+    },
+    {
+      "id": "117",
+      "name": "Blended Strawberry Lemonade",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190628_HorizonOrganicLowfatMilk.jpg?impolicy=1by1_medium_630",
+      "category": "Drinks",
+      "subcategory": "Cold Drinks",
+      "type": "Milk",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "130"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "190"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "260"
+        }
+      ]
+    },
+    {
+      "id": "118",
+      "name": "Cold Milk",
+      "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190607_Milk.jpg?impolicy=1by1_wide_topcrop_630",
+      "category": "Drinks",
+      "subcategory": "Cold Drinks",
+      "type": "Juice",
+      "sizes": [
+        {
+          "size": "Tall",
+          "capacity": "12 fl oz",
+          "calories": "200"
+        },
+        {
+          "size": "Grande",
+          "capacity": "16 fl oz",
+          "calories": "260"
+        },
+        {
+          "size": "Venti",
+          "capacity": "24 fl oz",
+          "calories": "370"
+        }
+      ]
+    },
+    {
+      "id": "0636b837-957f-4ebe-ad72-537b43aa5124",
+      "name": "coffe latte",
+      "img": "https://img.freepik.com/premium-photo/hot-coffee-capuccino-cup-with-latte-art-wood-table-cafe_778722-16.jpg",
+      "category": "latte",
+      "subcategory": "new",
+      "type": "Juice",
+      "sizes": [
+        {
+          "size": "Short",
+          "calories": "11",
+          "capacity": "1"
+        },
+        {
+          "size": "Tall",
+          "calories": "22",
+          "capacity": "2"
+        },
+        {
+          "size": "Grande",
+          "calories": "33",
+          "capacity": "3"
+        },
+        {
+          "size": "Venti",
+          "calories": "333",
+          "capacity": "33"
+        }
+      ]
+    },
+    {
+      "id": "7bb4ffdf-787d-4d42-bd2b-824437fb6b3f",
+      "name": "coffe",
+      "img": "https://img.freepik.com/free-photo/fresh-coffee-steams-wooden-table-close-up-generative-ai_188544-8923.jpg",
+      "category": "new",
+      "subcategory": "desfrt",
+      "type": "new",
+      "sizes": [
+        {
+          "size": "Short",
+          "calories": "1",
+          "capacity": "1"
+        },
+        {
+          "size": "Tall",
+          "calories": "11",
+          "capacity": "1"
+        },
+        {
+          "size": "Grande",
+          "calories": "1",
+          "capacity": "1"
+        },
+        {
+          "size": "Venti",
+          "calories": "2",
+          "capacity": "2"
+        }
+      ]
+    }
+  ]
+}
